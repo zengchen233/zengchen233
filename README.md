@@ -25,7 +25,7 @@ Life is short, better leave something useful for others.
 </td>
 <td valign="top" width="40%" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeng233&hide=html)](https://github.com/azeng233)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeng233&hide=html,css)](https://github.com/azeng233)
 
 </td>
 </tr>
