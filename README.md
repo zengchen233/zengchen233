@@ -4,17 +4,13 @@ I am a student studying in [Huanggang Normal University](http://www.hgnu.edu.cn/
 
 Life is short, better leave something useful for others.
 
-- 📘I'm learning algorithms about C++📙 , Python📗, and other languages🤔.
-
-- 🧐I'm learning backend technology as well as Javascript.
-
 - ☀️I like to write down interesting things in my daily life.
 
 - ✨You can get to know me by reading [zengchen233.cn](https://zengchen233.cn/)
 
 - ⚡ I like reading 📚, volleyball 🏐，traveling 🍀，and make new friends 🙈.
 
-- 🎀I also have a beautiful and lovely girlfriend.
+- 🎀 I will have a beautiful and lovely girlfriend.
 
   <br>
 
