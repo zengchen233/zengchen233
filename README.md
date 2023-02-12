@@ -1,4 +1,4 @@
-### Hi there ，I'm azeng👋
+### Hi there ，I'm zengchen👋
 
 I am a student studying in [Huanggang Normal University](http://www.hgnu.edu.cn/). My major is software engineering, So I am extremely interested in programming👨‍💻.
 
@@ -17,11 +17,11 @@ Life is short, better leave something useful for others.
 <table>
 <tr>
 <td valign="top" width="60%" align="center">
-<a href="https://github.com/zengchen233"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zengchen233&count_private=true&show_icons=true"/></a>  
+<a href="https://github.com/zengchen233"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zengchen233&count_private=true&show_icons=true&theme=buefy"/></a>  
 </td>
 <td valign="top" width="40%" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeng233&hide=html,css)](https://github.com/azeng233)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zengchen233&hide=HTML,css,JavaScript)](https://github.com/azeng233)
 
 </td>
 </tr>
