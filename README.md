@@ -1,6 +1,6 @@
 ### Hi there ，I'm zengchen👋
 
-I am a student studying in [Huanggang Normal University](http://www.hgnu.edu.cn/). My major is software engineering, So I am extremely interested in programming👨‍💻.
+I am a postgraduate student in [HuBei University](https://csi.hubu.edu.cn/index.htm). My research direction is medical image processing🤕.
 
 Life is short, better leave something useful for others.
 
@@ -20,7 +20,6 @@ Life is short, better leave something useful for others.
 <a href="https://github.com/zengchen233"><img align="center" src="https://github-readme-stats-seven-roan-82.vercel.app/api?username=zengchen233&count_private=true&show_icons=true&theme=buefy"/></a>  
 </td>
 <td valign="top" width="40%" align="center">
-
 [![Top Langs](https://github-readme-stats-seven-roan-82.vercel.app/api/top-langs/?username=zengchen233&hide=HTML,css,JavaScript)](https://github.com/azeng233)
 
 </td>
