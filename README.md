@@ -17,15 +17,14 @@ Life is short, better leave something useful for others.
 <table>
 <tr>
 <td valign="top" width="60%" align="center">
-<a href="https://github.com/zengchen233"><img align="center" src="https://github-readme-stats-seven-roan-82.vercel.app/api?username=zengchen233&count_private=true&show_icons=true&theme=buefy"/></a>  
+<a href="https://github.com/zengchen233"><img align="center" src="https://readme.zengchen233.cn/api?username=zengchen233&count_private=true&show_icons=true&theme=buefy"/></a>  
 </td>
 <td valign="top" width="40%" align="center">
 
 
 
-[![Top Langs](https://github-readme-stats-seven-roan-82.vercel.app/api/top-langs/?username=zengchen233&hide=HTML,css,JavaScript)](https://github.com/zengchen233)
+[![Top Langs](https://readme.zengchen233.cn/api/top-langs/?username=zengchen233&hide=HTML,css,JavaScript)](https://github.com/zengchen233)
 
 </td>
 </tr>
 </table>
-
