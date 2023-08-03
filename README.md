@@ -23,7 +23,7 @@ Life is short, better leave something useful for others.
 
 
 
-[![Top Langs](https://github-readme-stats-seven-roan-82.vercel.app/api/top-langs/?username=zengchen233&hide=HTML,css,JavaScript)](https://github.com/azeng233)
+[![Top Langs](https://github-readme-stats-seven-roan-82.vercel.app/api/top-langs/?username=zengchen233&hide=HTML,css,JavaScript)](https://github.com/zengchen233)
 
 </td>
 </tr>
